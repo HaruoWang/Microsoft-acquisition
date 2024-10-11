@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/HaruoWang/Microsoft-acquisition/compare/v0.1.2...v0.1.3) (2024-10-11)
+
+
+### Bug Fixes
+
+* fix Scroll export error ([3b6a0a2](https://github.com/HaruoWang/Microsoft-acquisition/commit/3b6a0a258af0130d23c974d47134b9614708da37))
+
 ### [0.1.2](https://github.com/HaruoWang/Microsoft-acquisition/compare/v0.1.1...v0.1.2) (2024-10-11)
 
 
