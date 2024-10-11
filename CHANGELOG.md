@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/HaruoWang/Microsoft-acquisition/compare/v0.1.1...v0.1.2) (2024-10-11)
+
+
+### Bug Fixes
+
+* **.eslintrc.json:** avoid Vercel deploy error ([3371a48](https://github.com/HaruoWang/Microsoft-acquisition/commit/3371a48bafbd5676ec379024ed333f187b535150))
+
 ### [0.1.1](https://github.com/HaruoWang/Microsoft-acquisition/compare/v0.1.0...v0.1.1) (2024-10-11)
 
 
