@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Microsoft's Top-10 Acquisitions",
   description: "A visual insight into MSFT's big move",
   openGraph: {
-    images: '/og.webp',
+    images: 'https://raw.githubusercontent.com/HaruoWang/Microsoft-acquisition/refs/heads/main/src/app/public/og.webp',
   }
 };
 
